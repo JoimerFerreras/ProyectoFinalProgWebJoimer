@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+
+  background-color: rgb(61, 87, 109);
+  font-family: Tahoma, Verdana, Geneva, sans-serif;
+  font-size: 15px;
+  padding: 20px;
+  border-radius: 10px;
+  color: black;
+  margin-top: 10px;
+}
+
+.ContCenter{
+  background-color: rgb(255, 255, 255);
+  font-family: Tahoma, Verdana, Geneva, sans-serif;
+  font-size: 14px;
+  padding: 20px;
+  border-radius: 10px;
+  color: black;
+  margin-top: 10px;
+  box-shadow: 0px 0px 10px var(--crl-gray-med);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/*Encabezado*/
+.header{
+  background-color: rgb(61, 87, 109);
+  height: 100px;
+}
+
+.welcome{
+  background-color: rgb(61, 87, 109);
+  color: white;
+  font-size: 25px;
+  margin-left: 30px;
+  padding-top: 10px;
+}
+.headerTexto{
+  background-color: rgb(61, 87, 109);
+  color: white;
+  font-size: 18px;
+  margin-left: 30px;
+  padding-top: 10px;
+}
+
+/*Pie de pagina*/
+.footer{
+  background-color: rgb(61, 87, 109);
+  height: 100px;
+}
+
+.footerMsg{
+  background-color: rgb(61, 87, 109);
+  color: white;
+  font-size: 25px;
+  padding-top: 10px;
+}
+.footerTexto{
+  background-color: rgb(61, 87, 109);
+  color: white;
+  font-size: 18px;
+  padding-top: 10px;
+}
+.atencion{
+  background-color: rgb(61, 87, 109);
+  color: rgb(255, 104, 104);
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

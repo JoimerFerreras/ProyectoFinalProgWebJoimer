@@ -1,0 +1,92 @@
+.contenedor{
+    padding-bottom: 30px;
+    
+}
+
+.fila{
+    display: flex;
+    font-size: 18px;
+    color:rgb(41, 41, 41);
+}
+
+.colmuna{
+    padding-right:30px ;
+
+}
+
+.texto{
+    font-size: 15px;
+    width: 600px;
+    border-radius: 25px;
+    padding-top: 10px;
+    color:rgb(41, 41, 41);
+    background-color: rgb(221, 238, 255);
+}
+input[type = text]{
+    width: 600px;
+    border: 2px solid #aaa;
+    border-radius: 10px;
+    margin: 8px 0;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+    color:rgb(41, 41, 41);
+    background-color: rgb(221, 238, 255);
+    
+}
+
+input[type = text]:focus{
+    background-color: rgb(189, 229, 255);
+    box-shadow: 0 0 8px 0  rgb(52, 170, 224);;
+    transition: 0.3s;
+    color:rgb(41, 41, 41);
+}
+
+input[type = password]{
+    width: 600px;
+    border: 2px solid #aaa;
+    border-radius: 10px;
+    margin: 8px 0;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+    color:rgb(41, 41, 41);
+    background-color: rgb(221, 238, 255);
+}
+
+input[type = password]:focus{
+    background-color: rgb(189, 229, 255);
+    box-shadow: 0 0 8px 0  rgb(52, 170, 224);;
+    transition: 0.3s;
+    color:rgb(41, 41, 41);
+}
+
+.Separador{
+    display: flex;
+    font-size: 18px;
+    color:rgb(81, 101, 119);
+}
+
+.boton{
+    margin-left: 18;
+    font-size: 24px;
+    border-radius: 50px;
+    padding: 12px;
+    font-size: 15px;
+    width: 610px;
+    height: 50px;
+    
+    border-color:rgb(176, 215, 255);
+    background-color: rgb(221, 238, 255);
+}
+
+.ContNuevoUsuario{
+    background-color: rgb(87, 117, 143);
+    font-family: Tahoma, Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    padding: 20px;
+    border-radius: 10px;
+    color: rgb(87, 117, 143);
+    margin-top: 10px;
+    box-shadow: 0px 0px 10px var(--crl-gray-med);
+  }
