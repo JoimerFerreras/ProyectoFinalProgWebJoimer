@@ -1,8 +1,8 @@
 Proyecto final de programacion web 
-Nombre: Joimer Emanuel 
-Apellido: Ferreras Cuevas 
-Matricula: 2020-10468 
-Grupo: 3 
+,Nombre: Joimer Emanuel 
+,Apellido: Ferreras Cuevas 
+,Matricula: 2020-10468 
+,Grupo: 3 
 
 Capturas de pantallas: 
 ![Screenshot 1](Imagen1.png)
